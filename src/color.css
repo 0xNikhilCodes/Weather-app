@@ -1,0 +1,55 @@
+.display{
+margin-right: 0px;
+margin-top: 0px;
+
+}
+.screen{
+    border: none;
+    border-radius: 0px;
+    background-color: black;
+    color: white;
+    width: 86%;
+    padding: 25px;
+    margin: 0px;
+     border-radius: 15px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: larger;
+
+
+}
+.container{
+    background-color: aliceblue;
+    display: inline-flex;
+    align-items: center;
+   border: 2px solid rgb(0, 0, 0);
+   margin: 100px;
+   margin-top: 0px;
+   width: 70%;
+   border-radius: 30px;
+   
+
+}
+
+input{
+border: none;
+border-radius: 30px;
+align-items: center;
+padding: 26px;
+margin: 5px;
+background-color: black;
+color: white;
+
+
+}
+.cal{
+    margin: 0px;
+    width: 100%;
+    margin-top: 0px;
+     border-radius: 30px;
+}
+input:hover{
+
+    color: black;
+    background-color:rgb(220, 107, 255); 
+}
+
