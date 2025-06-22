@@ -1,6 +1,4 @@
 // App.j
-import Calculator from "./God";
-import Watch from "./smart";
 import Weather from "./weather";
 
 function App() {
